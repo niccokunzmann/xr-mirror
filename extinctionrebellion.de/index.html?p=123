@@ -39,7 +39,7 @@ img.emoji {
 <link rel='stylesheet' id='simple-event-planner-font-awesome-css'  href='https://extinctionrebellion.de/wp-content/plugins/simple-event-planner/public/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
 <link rel='stylesheet' id='divi-style-css'  href='https://extinctionrebellion.de/wp-content/themes/Divi/style.css?ver=3.17.2' type='text/css' media='all' />
 <link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://extinctionrebellion.de/wp-includes/css/Crimson-font.css' type='text/css' media='all' />
-<link rel='stylesheet' id='bfa-font-awesome-css'  href='//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css'  href='https://extinctionrebellion.de/wp-includes/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='dashicons-css'  href='https://extinctionrebellion.de/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
 <script type='text/javascript' src='https://extinctionrebellion.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='https://extinctionrebellion.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
