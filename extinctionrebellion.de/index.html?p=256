@@ -206,7 +206,7 @@ var et_pb_box_shadow_elements = [];
 var SlimStatParams = {"ajaxurl":"https:\/\/extinctionrebellion.de\/wp-admin\/admin-ajax.php","extensions_to_track":"pdf,doc,xls,zip","outbound_classes_rel_href_to_not_track":"noslimstat,ab-item","ci":"YTo0OntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicG9zdCI7czo4OiJjYXRlZ29yeSI7czoxOiI0IjtzOjEwOiJjb250ZW50X2lkIjtpOjI1NjtzOjY6ImF1dGhvciI7czo0OiJ3b2xmIjt9.664433c1e528b7772fd9f8be08a5dbce"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://cdn.jsdelivr.net/wp/wp-slimstat/tags/4.7.8.3/wp-slimstat.min.js'></script>
+<script type='text/javascript' src='https://extinctionrebellion.de/wp-includes/js/wp-slimstat.min.js'></script>
 <script type='text/javascript' src='https://extinctionrebellion.de/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 </body>
 </html>
