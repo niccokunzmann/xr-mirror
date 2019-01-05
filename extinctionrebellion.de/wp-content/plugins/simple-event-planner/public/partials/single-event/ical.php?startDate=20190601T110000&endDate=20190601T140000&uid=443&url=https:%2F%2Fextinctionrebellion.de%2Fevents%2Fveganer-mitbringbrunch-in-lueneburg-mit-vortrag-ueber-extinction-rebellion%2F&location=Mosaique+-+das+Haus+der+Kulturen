@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Extinction Rebellion - ECPv1.4.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Extinction Rebellion
+X-ORIGINAL-URL:https://extinctionrebellion.de
+X-WR-CALDESC:Simple Event Planner
+BEGIN:VEVENT
+SUMMARY:Veganer Mitbringbrunch mit Vortrag über Extinction Rebellion (Anmeldung erforderlich)
+Description:Dieses Event wird nicht von XR veranstaltet, aber es gibt einen Talk über uns :)Weitere Infos findet ihr im FB-Event: https://www.facebook.com/events/2440693579336973/
+URL:https://extinctionrebellion.de/events/veganer-mitbringbrunch-in-lueneburg-mit-vortrag-ueber-extinction-rebellion/
+DTSTART:20190601T110000
+DTEND:20190601T140000
+DTSTAMP:20190104T195609
+UID:443
+LOCATION:Mosaique - das Haus der Kulturen, Katzenstraße 1, 21335 Lüneburg
+END:VEVENT
+END:VCALENDAR

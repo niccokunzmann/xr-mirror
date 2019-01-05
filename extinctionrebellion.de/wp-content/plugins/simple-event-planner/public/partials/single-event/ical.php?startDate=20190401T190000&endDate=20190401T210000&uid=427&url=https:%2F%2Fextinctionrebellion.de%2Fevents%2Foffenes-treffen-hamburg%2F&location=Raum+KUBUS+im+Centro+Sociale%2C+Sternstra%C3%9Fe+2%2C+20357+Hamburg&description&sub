@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Extinction Rebellion - ECPv1.4.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Extinction Rebellion
+X-ORIGINAL-URL:https://extinctionrebellion.de
+X-WR-CALDESC:Simple Event Planner
+BEGIN:VEVENT
+SUMMARY:Offenes Treffen Hamburg
+Description:
+URL:https://extinctionrebellion.de/events/offenes-treffen-hamburg/
+DTSTART:20190401T190000
+DTEND:20190401T210000
+DTSTAMP:20190104T195606
+UID:427
+LOCATION:Raum KUBUS im Centro Sociale, Sternstraße 2, 20357 Hamburg
+END:VEVENT
+END:VCALENDAR

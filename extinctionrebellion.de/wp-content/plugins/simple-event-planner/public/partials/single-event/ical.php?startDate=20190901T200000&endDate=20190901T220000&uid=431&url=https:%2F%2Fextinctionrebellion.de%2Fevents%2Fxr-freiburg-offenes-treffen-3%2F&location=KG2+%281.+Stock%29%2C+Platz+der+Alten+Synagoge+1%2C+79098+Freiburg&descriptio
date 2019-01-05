@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Extinction Rebellion - ECPv1.4.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Extinction Rebellion
+X-ORIGINAL-URL:https://extinctionrebellion.de
+X-WR-CALDESC:Simple Event Planner
+BEGIN:VEVENT
+SUMMARY:XR Freiburg Offenes Treffen
+Description:
+URL:https://extinctionrebellion.de/events/xr-freiburg-offenes-treffen-3/
+DTSTART:20190901T200000
+DTEND:20190901T220000
+DTSTAMP:20190104T195610
+UID:431
+LOCATION:KG2 (1. Stock), Platz der Alten Synagoge 1, 79098 Freiburg
+END:VEVENT
+END:VCALENDAR
